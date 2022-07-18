@@ -9,5 +9,5 @@ A target list application developed with CoreData and MVC architecture.
 
 
 # Screens
-<img height = 500 width = full src="images/1.png"> <img height = 500 width = full src="images/2.png"> <img height = 500 width = full src="images/3.png"> <img height = 500 width = full src="images/4.png"> <img height = 500 width = full src="images/5.png">
+<img height = 400 width = full src="images/1.png"> <img height = 400 width = full src="images/2.png"> <img height = 400 width = full src="images/3.png"> <img height = 400 width = full src="images/4.png"> <img height = 400 width = full src="images/5.png">
  
