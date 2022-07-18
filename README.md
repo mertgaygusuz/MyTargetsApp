@@ -9,4 +9,5 @@ A target list application developed with CoreData and MVC architecture.
 
 
 # Screens
-<img height = 500 width = full src="https://www.hizliresim.com/c4qzh7u">  <img height = 500 width = full src="https://www.hizliresim.com/bewgfjf"> <img height = 500 width = full src="https://www.hizliresim.com/olhdxmp"> <img height = 500 width = full src="https://www.hizliresim.com/1dxfbwj"> <img height = 500 width = full src="https://www.hizliresim.com/4vpxkcp">
+<img height = 500 width = full src="images/1.png"> <img height = 500 width = full src="images/2.png"> <img height = 500 width = full src="images/3.png"> <img height = 500 width = full src="images/4.png"> <img height = 500 width = full src="images/5.png">
+ 
